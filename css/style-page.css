@@ -1,0 +1,72 @@
+@charset "utf-8";
+.row .col-lg-3 p {
+}
+
+
+.footer {
+    padding: 50px;
+    background-color: #881F71;
+    color: #FFFFFF;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  
+
+
+}
+.footer2 {
+    color: #881F71;
+    font-weight: bold;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.boton color {
+    background-color: #9D72B0;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.navcolor {
+    color: #881F71;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.navbard {
+    color: #881F71;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.bodycolor {
+    background-color: #C6B5D9;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+    
+}
+.botoncolor {
+    background-color: #9D72B0;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+  
+.armyencabezado {
+    background-color: #7C0061;
+}
+.blancoencabezadoarmi {
+    color: #FDFCFD;
+}
+.mt-4 {
+}
